@@ -1,4 +1,4 @@
-# JS-TP4-Exo7-ouvrir-et-fermer-un-lien-fen-tre-
+# JS-TP4-Exo7-ouvrir-et-fermer-un-lien-fenêtre-
 Exercice 7
 Créez 2 boutons sur une page HTML, “ouvrir fenetre” et “fermer fenetre”. Un clic (évènement onclick ) sur ces boutons appelle une fonction qui ouvre une nouvelle fenêtre (ou onglet) à l'URL de votre choix, ou une fonction qui la ferme, respectivement.
 
